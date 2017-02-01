@@ -1,0 +1,3 @@
+[submodule "ChessEmbeddings"]
+	path = ChessEmbeddings
+	url = git@github.com:brannondorsey/ChessEmbeddings.git
